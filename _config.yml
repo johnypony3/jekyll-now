@@ -9,7 +9,7 @@ name: johnypony3
 description: Web Developer from Somewhere
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ![_config.yml]({{ site.baseurl }}/images/Z-LcQwe2_400x400.jpg)
+avatar: https://pbs.twimg.com/profile_images/744779426257207297/Z-LcQwe2_400x400.jpg
 
 #
 # Flags below are optional
