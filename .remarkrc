@@ -1,0 +1,9 @@
+{
+    "presets": ["lint-consistent"],
+    "plugins": {
+        "lint": {
+            "list-item-indent": false,
+            "no-auto-link-without-protocol": false
+        }
+    }
+}
