@@ -12,4 +12,4 @@ lots of other information
 
 # Contact me
 
-<mail:johnypony3@theemm.com>
+<johnypony3@theemm.com>
